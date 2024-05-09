@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-kinupes-gouvea-75a70a284/"><img src="https://img.shields.io/badge/-Felipe%20Mota%20Rocha-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipe-kinupes-gouvea-75a70a284/"><img src="https://img.shields.io/badge/-felipe-kinupes-gouvea-75a70a284?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:felipekinupesg@hotmail.com"><img src="https://img.shields.io/badge/-felipekinupesg@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
@@ -21,8 +21,6 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-333333?style=flat&logo=typescript&logoColor=2D79C7)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React](https://img.shields.io/badge/-React%20Native-333333?style=flat&logo=react)
-
 
 <h3>⚙️ &nbsp;Back-end e banco de dados:</h3>
 
