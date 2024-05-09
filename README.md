@@ -1,6 +1,6 @@
 <h1>👋 &nbsp;Olá, eu sou o Felipe, um desenvolvedor full stack apaixonado pelo que faz!</h1>
 <p align="center">
-<a href="https://www.linkedin.com/in/felipe-kinupes-gouvea-75a70a284/"><img src="https://img.shields.io/badge/-felipe-kinupes-gouvea-75a70a284?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/felipe-kinupes-gouvea-75a70a284/"><img src="https://img.shields.io/badge/-Felipe%20Kinupes%20Gouvêa-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
 <a href="mailto:felipekinupesg@hotmail.com"><img src="https://img.shields.io/badge/-felipekinupesg@hotmail.com-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
 </p>
