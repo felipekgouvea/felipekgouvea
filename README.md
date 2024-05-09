@@ -7,11 +7,11 @@
 
 <h2> 👨🏻‍💻 &nbsp;About Me </h2>
 
-<!-- - 👨🏻‍💻 &nbsp; •	Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando fiz meu primeiro curso de informática. Depois vieram cursos Técnicos e Graduação. Sempre gostei de tecnologia e estou em processo de retomada da minha carreira como desenvolvedor.
+- 👨🏻‍💻 &nbsp; •	Eu tive meu primeiro contato com linhas de código aos 14 anos de idade, quando fiz meu primeiro curso de informática. Depois vieram cursos Técnicos e Graduação. Sempre gostei de tecnologia e estou em processo de retomada da minha carreira como desenvolvedor.
 - 📘 &nbsp; Estou estudando muito e me dedicando na realização de projetos para colocar em prática todos os conhecimentos adquiridos nos estudos.
 - 🚀 &nbsp; Atualmente, tenho como foco principal da minha carreira as áreas de desenvolvimento web. Utilizo a stack JavaScript (Node & React) e a Stack Java (Java Spring & React) para desenvolver em ambas as frentes.
 - ⚽ &nbsp; Sou apaixonado por futebol, especialmente pelo Flamengo, gosto de jogar vídeo gamer.
-- 🍖 &nbsp; Também gosto muito de fazer churrasco, é meu hobby hoje em dia e adoro estar com a minha família. -->
+- 🍖 &nbsp; Também gosto muito de fazer churrasco, é meu hobby hoje em dia e adoro estar com a minha família.
 
 <h2> 🛠 &nbsp;Tech Stack</h2>
 <h3>💻 &nbsp;Front-end:</h3>
